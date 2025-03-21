@@ -7,15 +7,10 @@
 - Outside the tech world, I’m a performer in musicals and a visual creator
 
 
-🚀 Some of the projects I've worked on:
-- **Spotify Popularity Prediction** using Python and classification models
-- **Company Sales Analysis** using R
-- **SQL Projects** with structured business data
-
 
 
 📫 Let's connect:
 - [LinkedIn](www.linkedin.com/in/ada-ergen-253408214)  
 - 📧 adaergen2002@hotmail.com
 
-- Thanks for visiting! ⭐️
+- Thanks for visiting! 
